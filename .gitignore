@@ -1,0 +1,9 @@
+_build/
+_compiler/
+_repo/
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+out/
+*.usdc
